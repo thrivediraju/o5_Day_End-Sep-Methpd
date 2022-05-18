@@ -1,7 +1,7 @@
 # print('hello'+'y') # helloy
 # print('hello'+''+'y') # helloy
 # print('hello'+' '+'y') # hello y
-# print('hello'+'   '+'y') # hello   y
+# print('hello'+'    '+'y') # hello   y
 # print('hello'+'-'+'y') # hello-y
 # print('hello'+'@'+'y') # hello@y
 
@@ -15,8 +15,8 @@
 
 # print('h' 'y') # hy
 # print('h'            'y') # hy
-# print('h '    'y') # h y
-# print('h'    ' y') # h y
+# print('h '     'y') # h y
+# print('h'     ' y') # h y
 # print('h','y') # h y
 # print('h'+'    '+'y') # h    y
 # print("python",3,'Version Used is','3.10.4')
