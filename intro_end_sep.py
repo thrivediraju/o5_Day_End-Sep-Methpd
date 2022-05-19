@@ -48,7 +48,7 @@
 # print(2,end='')
 # print(3)
 
-# print('c'  'b') # cb
-# print('c'  'b',sep=' ') # cb
+# print('c'   'b') # cb
+# print('c'   'b',sep=' ') # cb
 
 # print(1,2,3,4,5,end='.')
