@@ -1,8 +1,8 @@
-"""
+'''
 Date: 25th April 2022 Monday
 Name: Hd
 File Desc: String Slicing
-"""
+'''
 
 # x='department'
 # print(x)
