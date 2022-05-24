@@ -35,7 +35,7 @@ File Desc: String Slicing
 # print(x[4:3]) # blank line or empty line
 # print(x[:6]) # python
 
-# x='python'
+# x="python"
 # print(x[-1]) # n
 # print(x[-3]) # h
 # print(x[-7]) # IndexError: string index out of range
