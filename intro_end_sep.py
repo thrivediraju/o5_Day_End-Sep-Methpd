@@ -1,7 +1,7 @@
 # print('hello'+'y') # helloy
 # print('hello'+''+'y') # helloy
 # print('hello'+' '+'y') # hello y
-# print('hello'+'   '+'y') # hello  y
+# print('hello'+'    '+'y') # hello   y
 # print('hello'+'-'+'y') # hello-y
 # print('hello'+'@'+'y') # hello@y
 
