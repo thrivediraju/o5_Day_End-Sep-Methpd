@@ -14,7 +14,7 @@
 # print('Jerome','Soorya','Python',sep='@')
 
 # print('h' 'y') # hy
-# print('h'            'y') # hy
+# print('h'           'y') # hy
 # print('h '     'y') # h y
 # print('h'     ' y') # h y
 # print('h','y') # h y
