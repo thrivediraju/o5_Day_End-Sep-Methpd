@@ -5,7 +5,7 @@
 # print('hello'+'-'+'y') # hello-y
 # print('hello'+'@'+'y') # hello@y
 
-""" sep method """
+''' sep method '''
 # print('h','y') # h y 
 # print('h','y',sep='') # hy 
 # print('h','y',sep=' ') # h y 
