@@ -1,4 +1,4 @@
-# print('hello'+'r') # helloy
+# print('hello'+'r') # hellor
 # print('hello'+''+'y') # helloy
 # print('hello'+' '+'y') # hello y
 # print('hello'+'    '+'y') # hello   y
